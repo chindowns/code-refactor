@@ -42,5 +42,5 @@ header {
 
 ## Author Links
 ### Michael Downs
-[LinkedIn](https://www.linkedin/in/michaeldownssj)  
-[GitHub](https://chindowns.github.com) 
+[LinkedIn](http://www.linkedin.com/in/michaeldownssj)  
+[GitHub](https://chindowns.github.io/) 
