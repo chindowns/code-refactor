@@ -89,7 +89,9 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
 /* Merged repetitive benefit classes into one .benefit class */
+
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -110,6 +112,7 @@ aside {
 Improved Semantic by converting classes into an article element.
 Merged repetive selector and property values 
 */
+
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,6 +132,7 @@ article h2 {
 }
 
 /* Converted the footer class to a footer element selector */
+
 footer {
     padding: 30px;
     clear: both;

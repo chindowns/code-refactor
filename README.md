@@ -8,11 +8,13 @@
 - CSS - styles html elements on the page semantically and support WEB SEO and accesibility
 - Git - version control system to track changes to source code
 - GITHub - hosts reository taht can be deployed to GitHub Pages
+- Photoshop - resize the images to make the images a usable byte size for the browser to load.
 
 ## Summary
-This application was designed for refactor practice and leaving the web pages in better condition than when I started working on them.
+This project is practice refactoring code and leaving the web pages in better condition than when I started working on it.  
 
 ## Code Snippet
+Added this code snippet to demonstrate the addition of comments and changing classes to elements.
 '''html  
 /* Set minimum width in the body to ensure the css maintains formatting */  
 body {  
@@ -28,14 +30,14 @@ header {
 }
 ...
 
-
 ## Significant Changes
 - Repaired the internal SEO menu link
-- Semantic improvement - converted classes in \<div> to semantic elements Header, Section, Article, Aside & Footer.
-- Rezised all the images to improve page loading on mobile sites and slower networks
+- Set a Minimum width in the body to maintain layout integrity.  This is not a responsive website.
+- Semantic improvement - converted classes in \<div> to semantic elements Header, Nav, Section, Article, Aside & Footer.
+- Rezised all the images using Photoshop to improve page loading on mobile sites and slower networks
 - Semantic change - updated all the images to self closing with ALT attributes.
 - Converted single use classe hero to #id hero
-- Merged common styling from class benefits... to benefits
+- Merged common styling from class multiple benefits... to benefits
 - Removed repetitive CSS Rule Sets
 
 ## Author Links
