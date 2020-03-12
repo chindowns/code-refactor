@@ -3,9 +3,10 @@
     padding: 0;
     margin: 0;
 }
-
+/* Set minimum width in the body to ensure the css for formatting is not disrupted on smaller screens */
 body {
     background-color: #d9dcd6;
+    min-width: 1337px;
 }
 /* Improve semantics - change header class to header element */
 header {
@@ -50,13 +51,15 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/* Background image is in CSS to ensure the center of the image aligns with the center of the block element */
+#hero {
     height: 800px;
-    width: 100%;
+    /* width: 100%; */
     margin-bottom: 25px;
-    /* background-image: url("../images/digital-marketing-meeting.jpg"); */
+    background-image: url("../images/digital-marketing-meeting-2400x1600.jpg");
     background-size: cover;
     background-position: center;
+    overflow: hidden;
 }
 
 .float-left {
@@ -69,7 +72,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
