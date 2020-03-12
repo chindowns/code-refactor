@@ -41,5 +41,6 @@ header {
 - Removed repetitive CSS Rule Sets
 
 ## Author Links
+### Michael Downs
 [LinkedIn](https://www.linkedin/in/michaeldownssj)  
 [GitHub](https://chindowns.github.com) 
