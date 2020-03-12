@@ -20,9 +20,10 @@ Coming Soon!
 
 ## Significant Changes
 - Repaired the internal SEO menu list link
-- Semantic change - converted the first div from a header class to a header element
-- Rezised all the images to the sizes specified in CSS to speed page loading on mobile sites and slower networks
+- Semantic improvement - converted divs from classes to elements
+- Rezised all the images to improve page loading on mobile sites and slower networks
 - Semantic change - updated all the images to self closing with ALT attributes.
+- Converted single use classes to IDs
 
 ## Author Links
 [LinkedIn](https://www.linkedin/in/michaeldownssj)
