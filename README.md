@@ -13,18 +13,31 @@
 This application was designed for refactor practice and leaving the web pages in better condition than when I started working on them.
 
 ## Code Snippet
-'''html
-Coming Soon!
+'''html  
+/* Set minimum width in the body to ensure the css maintains formatting */  
+body {  
+    background-color: #d9dcd6;  
+    min-width: 1337px;  
+}
+/* Improve semantics - change header class to header element */  
+header {  
+    padding: 20px;  
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+    background-color: #2a607c;  
+    color: #ffffff;  
+}
 ...
 
 
 ## Significant Changes
-- Repaired the internal SEO menu list link
-- Semantic improvement - converted divs from classes to elements
+- Repaired the internal SEO menu link
+- Semantic improvement - converted classes in \<div> to semantic elements Header, Section, Article, Aside & Footer.
 - Rezised all the images to improve page loading on mobile sites and slower networks
 - Semantic change - updated all the images to self closing with ALT attributes.
-- Converted single use classes to IDs
+- Converted single use classe hero to #id hero
+- Merged common styling from class benefits... to benefits
+- Removed repetitive CSS Rule Sets
 
 ## Author Links
-[LinkedIn](https://www.linkedin/in/michaeldownssj)
+[LinkedIn](https://www.linkedin/in/michaeldownssj)  
 [GitHub](https://chindowns.github.com) 
